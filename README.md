@@ -1,16 +1,46 @@
-### Hi there 👋
+<h1 align='center'> Hi there, I'm Lauric 👋</h1>
 
-<!--
-**Lauric-h/Lauric-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align='center'> Let's get in touch ! </h3>
 
-Here are some ideas to get you started:
+<div align='center'>
+ 
+ <a href="https://www.linkedin.com/in/lauric/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="mailto:h.lauric@outlook.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://twitter.com/LauricOlrik"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+***
+<div align='center'>
+<h4>:computer: I’m currently working with...</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+</p>
+</div>
+
+***
+<div align='center'>
+<h4>🌱 I'm currently learning...</h4>
+<p >
+  <img src="https://img.shields.io/badge/-PHP-5dbcd2?style=for-the-badge&logo=php" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java%20-007396?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-VueJS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/MySQL%20-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
+</p>
+</div>
+
+***
+<div align='center'>
+<p>
+<h4>💬 Follow my journey to become a web developer there... </h4>
+
+ <a href="https://www.notion.so/Suivi-d-apprentissage-1e0863391d8c4bd1a11c70eb47278893"><img src="https://img.shields.io/badge/-Learning-black?style=for-the-badge&logo=notion" /><a href="https://www.notion.so/Suivi-d-apprentissage-1e0863391d8c4bd1a11c70eb47278893"><img src="https://img.shields.io/badge/-Monitoring-black?style=for-the-badge&logo=notion" />
+</p>
+</div>
+
+
+
+
+
+
+
+
+
