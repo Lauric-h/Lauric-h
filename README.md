@@ -35,6 +35,15 @@
  <a href="https://www.notion.so/Suivi-d-apprentissage-1e0863391d8c4bd1a11c70eb47278893"><img src="https://img.shields.io/badge/-Learning-black?style=for-the-badge&logo=notion" />&nbsp;&nbsp;<a href="https://www.notion.so/Veille-7dc7d5956836420e8a976f63726da48d"><img src="https://img.shields.io/badge/-Monitoring-black?style=for-the-badge&logo=notion" />
 </p>
 </div>
+***
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lauric-h&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Lauric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lauric-h>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
