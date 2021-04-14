@@ -42,7 +42,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lauric-h&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Lauric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lauric-h>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Lauric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lauric-h&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
