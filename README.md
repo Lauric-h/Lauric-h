@@ -40,7 +40,7 @@
 <div align='center'>
  <h2>&#x1f4c8; My GitHub Stats </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lauric-h&hide=html,css,assembly,scila&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lauric-h&hide=html,css,assembly,scilab&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Lauric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lauric-h&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
