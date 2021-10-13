@@ -15,7 +15,7 @@
 <h4>:computer: I’m currently working with...</h4>
 
 <p>
-  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/-PHP-5dbcd2?style=for-the-badge&logo=php" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/MySQL%20-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-PHP-5dbcd2?style=for-the-badge&logo=php" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Symfony%20-000000?&style=for-the-badge&logo=symfony&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/-VueJS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/MySQL%20-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 </div>
 
@@ -23,7 +23,8 @@
 <div align='center'>
 <h4>🌱 I'm currently learning...</h4>
 <p>
- <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java%20-007396?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-VueJS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Symfony%20-000000?&style=for-the-badge&logo=symfony&logoColor=white" />&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java%20-007396?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+ 
 </p>
 </div>
 
