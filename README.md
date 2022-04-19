@@ -11,28 +11,28 @@
 
 ***
 <div align='center'>
-<h4>:computer: I’m currently working with...</h4>
-
-<p>
-  <img src="https://img.shields.io/badge/-PHP-5dbcd2?style=for-the-badge&logo=php" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Symfony%20-000000?&style=for-the-badge&logo=symfony&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/-VueJS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/MySQL%20-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
-</p>
+<h4>:computer: I’m currently working on...</h4>
+ <a href="https://github.com/Lauric-h/chemin" target="_blank"><img src="https://img.shields.io/badge/Chemin%20-000000?&style=for-the-badge&logo=symfony&logoColor=white"" />
 </div>
 
 ***
 <div align='center'>
-<h4>🌱 I'm currently learning...</h4>
+<h4>:computer: I’m currently working with...</h4>
 <p>
- <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java%20-007396?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
- 
+  <img src="https://img.shields.io/badge/-PHP-5dbcd2?style=for-the-badge&logo=php" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Symfony%20-000000?&style=for-the-badge&logo=symfony&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/MySQL%20-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
+ <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Java%20-007396?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;
+ &nbsp;&nbsp;<img src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />&nbsp;&nbsp;
 </p>
 </div>
 
-***
 <div align='center'>
 <p>
 <h4>💬 Follow my journey to become a web developer there... </h4>
 
- <a href="https://www.notion.so/Suivi-d-apprentissage-1e0863391d8c4bd1a11c70eb47278893"><img src="https://img.shields.io/badge/-Learning-black?style=for-the-badge&logo=notion" />&nbsp;&nbsp;<a href="https://www.notion.so/Veille-7dc7d5956836420e8a976f63726da48d"><img src="https://img.shields.io/badge/-Monitoring-black?style=for-the-badge&logo=notion" />
+ <a href="https://github.com/Lauric-h/second-brain" target="_blank"><img src="https://img.shields.io/badge/-Learnings-483699?style=for-the-badge&logo=obsidian" />&nbsp;&nbsp;
 </p>
 </div>
 
