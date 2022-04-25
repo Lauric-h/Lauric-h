@@ -12,8 +12,11 @@
 ***
 <div align='center'>
 <h4>:computer: I’m currently working on...</h4>
- <a href="https://github.com/Lauric-h/chemin" target="_blank"><img src="https://img.shields.io/badge/Chemin%20-000000?&style=for-the-badge&logo=symfony&logoColor=white"" />
+ <a href="https://github.com/Lauric-h/chemin" target="_blank"><img src="https://img.shields.io/badge/Chemin%20-000000?&style=for-the-badge&logo=symfony&logoColor=white"" />&nbsp;&nbsp;
+  <a href="https://github.com/Lauric-h/portfolio-symfony" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20-000000?&style=for-the-badge&logo=symfony&logoColor=white"" />
 </div>
+</div>
+  
 
 ***
 <div align='center'>
