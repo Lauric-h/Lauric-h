@@ -40,9 +40,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel-one-mu-46.app/api/top-langs/?username=Lauric-h&hide=html,scss,sass,css,assembly,scilab&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-one-mu-46.vercel.app/api/top-langs?username=Lauric-h)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-one-mu-46.vercel.app/api/top-langs?username=Lauric-h&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Lauric's GitHub stats](https://github-readme-stats-one-mu-46.vercel.app/api?username=Lauric-h&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Lauric's GitHub stats](https://github-readme-stats-one-mu-46.vercel.app/api?username=Lauric-h)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
